@@ -12,4 +12,4 @@ Hi, my name is Muhammad Hassan Thalib an Android and Kotlin Enthusiast.<br>Love 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan3&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/muhammadhassan3/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
